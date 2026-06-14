@@ -5,7 +5,7 @@ This repository contains the PyTorch implementation of **SCA-Net**, a scale- and
 ## Method
 
 <p align="center">
-  <img src="assets/SCANet.jpg" width="88%">
+  <img src="assets/SCANet.jpg" width="80%">
 </p>
 
 SCA-Net follows an encoder-decoder design and integrates three complementary components:
@@ -31,7 +31,7 @@ Experiments are conducted on five public polyp segmentation datasets: Kvasir-SEG
 On the challenging unseen ETIS-LaribPolypDB dataset, SCA-Net with a PVTv2-B4 backbone achieves **86.0% mDice** and **78.7% mIoU**.
 
 <p align="center">
-  <img src="assets/Visual.jpg" width="92%">
+  <img src="assets/Visual.jpg" width="85%">
 </p>
 
 
